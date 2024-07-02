@@ -36,5 +36,48 @@ Fullstack Javascript Developer
 - 🌐 Keeping up with emerging **cloud technologies** and industry trends
 - 🌱 Actively seeking to **diversify my knowledge** and share it with the community
 
+## 🛠️ My Skills
+
+### Languages
+- **JavaScript**: Proficient
+- **TypeScript**: Basic
+- **HTML/CSS**: Advanced
+- **PHP**: Intermediate
+- **Java**: Intermediate
+- **Python**: Basic
+
+### Frameworks and Libraries
+- **ReactJS**: Intermediate
+- **NextJS**: Basic
+- **NodeJS**: Intermediate
+- **ExpressJS**: Intermediate
+- **Tailwind CSS**: Basic
+- **SASS**: Basic
+
+### Databases
+- **MySQL**: Intermediate
+- **MongoDB**: Intermediate
+
+### Tools and Platforms
+- **Git and GitHub**: Intermediate
+- **Postman**: Intermediate
+- **Axios**: Intermediate
+- **Android Studio**: Basic
+- **Linux Console**: Intermediate
+- **Railway**: Intermediate
+- **Netlify**: Intermediate
+
+### DevOps
+- **CI/CD Pipelines**: Basic
+- **Amazon EC2**: Basic
+- **Windows Server**: Intermediate
+
+### Other
+- **RESTful APIs**: Intermediate
+- **MVC Architecture**: Intermediate
+- **Agile Development**: Intermediate
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikeme98&show_icons=true&theme=tokyonight)
 

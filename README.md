@@ -1,6 +1,6 @@
 # Hello there, I'm Kike Méndez! 👋
 Fullstack Javascript Developer
-PC Building Expert
+
 
 ## 🌟 What I Do
 
